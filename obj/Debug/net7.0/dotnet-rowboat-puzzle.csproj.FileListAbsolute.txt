@@ -1,0 +1,15 @@
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.csproj.AssemblyReference.cache
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.AssemblyInfoInputs.cache
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.AssemblyInfo.cs
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.csproj.CoreCompileInputs.cache
+E:\Projects\personal\dotnet-rowboat-puzzle\bin\Debug\net7.0\dotnet-rowboat-puzzle.exe
+E:\Projects\personal\dotnet-rowboat-puzzle\bin\Debug\net7.0\dotnet-rowboat-puzzle.deps.json
+E:\Projects\personal\dotnet-rowboat-puzzle\bin\Debug\net7.0\dotnet-rowboat-puzzle.runtimeconfig.json
+E:\Projects\personal\dotnet-rowboat-puzzle\bin\Debug\net7.0\dotnet-rowboat-puzzle.dll
+E:\Projects\personal\dotnet-rowboat-puzzle\bin\Debug\net7.0\dotnet-rowboat-puzzle.pdb
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.dll
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\refint\dotnet-rowboat-puzzle.dll
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.pdb
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\dotnet-rowboat-puzzle.genruntimeconfig.cache
+E:\Projects\personal\dotnet-rowboat-puzzle\obj\Debug\net7.0\ref\dotnet-rowboat-puzzle.dll
